@@ -1,0 +1,980 @@
+Uri: https://www.wayaheadoverseas.com/
+File Name: E:\zetetikoz data base for web site creations\parent website\www.wayaheadoverseas.com\index.htm
+Content Type: text/html
+
+Uri: https://www.wayaheadoverseas.com/wp-content/themes/mbbs/images/slide-5.jpg
+File Name: E:\zetetikoz data base for web site creations\parent website\www.wayaheadoverseas.com\wp-content\themes\mbbs\images\slide-5.jpg
+Content Type: image/jpeg
+
+Uri: https://www.wayaheadoverseas.com/wp-content/themes/mbbs/images/slide-2.jpg
+File Name: E:\zetetikoz data base for web site creations\parent website\www.wayaheadoverseas.com\wp-content\themes\mbbs\images\slide-2.jpg
+Content Type: image/jpeg
+
+Uri: https://www.wayaheadoverseas.com/wp-content/themes/mbbs/images/slide-3.jpg
+File Name: E:\zetetikoz data base for web site creations\parent website\www.wayaheadoverseas.com\wp-content\themes\mbbs\images\slide-3.jpg
+Content Type: image/jpeg
+
+Uri: https://www.wayaheadoverseas.com/wp-content/themes/mbbs/images/slide-4.jpg
+File Name: E:\zetetikoz data base for web site creations\parent website\www.wayaheadoverseas.com\wp-content\themes\mbbs\images\slide-4.jpg
+Content Type: image/jpeg
+
+Uri: https://www.wayaheadoverseas.com/wp-content/themes/mbbs/images/slide-1.jpg
+File Name: E:\zetetikoz data base for web site creations\parent website\www.wayaheadoverseas.com\wp-content\themes\mbbs\images\slide-1.jpg
+Content Type: image/jpeg
+
+Uri: https://www.wayaheadoverseas.com/wp-content/themes/mbbs/images/img-8.jpg
+File Name: E:\zetetikoz data base for web site creations\parent website\www.wayaheadoverseas.com\wp-content\themes\mbbs\images\img-8.jpg
+Content Type: image/jpeg
+
+Uri: https://www.wayaheadoverseas.com/wp-content/themes/mbbs/style/style.css
+File Name: E:\zetetikoz data base for web site creations\parent website\www.wayaheadoverseas.com\wp-content\themes\mbbs\style\style.css
+Content Type: text/css
+
+Uri: https://www.wayaheadoverseas.com/wp-content/themes/mbbs/style/prettyPhoto.css
+File Name: E:\zetetikoz data base for web site creations\parent website\www.wayaheadoverseas.com\wp-content\themes\mbbs\style\prettyPhoto.css
+Content Type: text/css
+
+Uri: https://www.wayaheadoverseas.com/wp-content/themes/mbbs/style/stylemobile.css
+File Name: E:\zetetikoz data base for web site creations\parent website\www.wayaheadoverseas.com\wp-content\themes\mbbs\style\stylemobile.css
+Content Type: text/css
+
+Uri: https://www.wayaheadoverseas.com/wp-content/themes/mbbs/style/mobilenavigation.css
+File Name: E:\zetetikoz data base for web site creations\parent website\www.wayaheadoverseas.com\wp-content\themes\mbbs\style\mobilenavigation.css
+Content Type: text/css
+
+Uri: https://www.wayaheadoverseas.com/wp-content/themes/mbbs/images/favicon.png
+File Name: E:\zetetikoz data base for web site creations\parent website\www.wayaheadoverseas.com\wp-content\themes\mbbs\images\favicon.png
+Content Type: image/png
+
+Uri: https://www.wayaheadoverseas.com/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=5.0.1
+File Name: E:\zetetikoz data base for web site creations\parent website\www.wayaheadoverseas.com\wp-content\plugins\contact-form-7\includes\css\styles.css
+Content Type: text/css
+
+Uri: https://www.wayaheadoverseas.com/about-eo/
+File Name: E:\zetetikoz data base for web site creations\parent website\www.wayaheadoverseas.com\about-eo\index.htm
+Content Type: text/html
+
+Uri: https://www.wayaheadoverseas.com/our-services/
+File Name: E:\zetetikoz data base for web site creations\parent website\www.wayaheadoverseas.com\our-services\index.htm
+Content Type: text/html
+
+Uri: https://www.wayaheadoverseas.com/application-form/
+File Name: E:\zetetikoz data base for web site creations\parent website\www.wayaheadoverseas.com\application-form\index.htm
+Content Type: text/html
+
+Uri: https://www.wayaheadoverseas.com/frequently-asked-question/
+File Name: E:\zetetikoz data base for web site creations\parent website\www.wayaheadoverseas.com\frequently-asked-question\index.htm
+Content Type: text/html
+
+Uri: https://www.wayaheadoverseas.com/contacts/
+File Name: E:\zetetikoz data base for web site creations\parent website\www.wayaheadoverseas.com\contacts\index.htm
+Content Type: text/html
+
+Uri: https://www.wayaheadoverseas.com/about-russia/
+File Name: E:\zetetikoz data base for web site creations\parent website\www.wayaheadoverseas.com\about-russia\index.htm
+Content Type: text/html
+
+Uri: https://www.wayaheadoverseas.com/why-russia/
+File Name: E:\zetetikoz data base for web site creations\parent website\www.wayaheadoverseas.com\why-russia\index.htm
+Content Type: text/html
+
+Uri: https://www.wayaheadoverseas.com/education-in-russia/
+File Name: E:\zetetikoz data base for web site creations\parent website\www.wayaheadoverseas.com\education-in-russia\index.htm
+Content Type: text/html
+
+Uri: https://www.wayaheadoverseas.com/about-ukraine/
+File Name: E:\zetetikoz data base for web site creations\parent website\www.wayaheadoverseas.com\about-ukraine\index.htm
+Content Type: text/html
+
+Uri: https://www.wayaheadoverseas.com/why-ukraine/
+File Name: E:\zetetikoz data base for web site creations\parent website\www.wayaheadoverseas.com\why-ukraine\index.htm
+Content Type: text/html
+
+Uri: https://www.wayaheadoverseas.com/education-in-ukraine/
+File Name: E:\zetetikoz data base for web site creations\parent website\www.wayaheadoverseas.com\education-in-ukraine\index.htm
+Content Type: text/html
+
+Uri: https://www.wayaheadoverseas.com/universities/
+File Name: E:\zetetikoz data base for web site creations\parent website\www.wayaheadoverseas.com\universities\index.htm
+Content Type: text/html
+
+Uri: https://www.wayaheadoverseas.com/ukrainian-universities/
+File Name: E:\zetetikoz data base for web site creations\parent website\www.wayaheadoverseas.com\ukrainian-universities\index.htm
+Content Type: text/html
+
+Uri: https://www.wayaheadoverseas.com/russian-universities/
+File Name: E:\zetetikoz data base for web site creations\parent website\www.wayaheadoverseas.com\russian-universities\index.htm
+Content Type: text/html
+
+Uri: https://www.wayaheadoverseas.com/courses/
+File Name: E:\zetetikoz data base for web site creations\parent website\www.wayaheadoverseas.com\courses\index.htm
+Content Type: text/html
+
+Uri: https://www.wayaheadoverseas.com/curriculum/
+File Name: E:\zetetikoz data base for web site creations\parent website\www.wayaheadoverseas.com\curriculum\index.htm
+Content Type: text/html
+
+Uri: https://www.wayaheadoverseas.com/mbbs-bds/
+File Name: E:\zetetikoz data base for web site creations\parent website\www.wayaheadoverseas.com\mbbs-bds\index.htm
+Content Type: text/html
+
+Uri: https://www.wayaheadoverseas.com/pg/
+File Name: E:\zetetikoz data base for web site creations\parent website\www.wayaheadoverseas.com\pg\index.htm
+Content Type: text/html
+
+Uri: https://www.wayaheadoverseas.com/living-expences/
+File Name: E:\zetetikoz data base for web site creations\parent website\www.wayaheadoverseas.com\living-expences\index.htm
+Content Type: text/html
+
+Uri: https://www.wayaheadoverseas.com/accommodation/
+File Name: E:\zetetikoz data base for web site creations\parent website\www.wayaheadoverseas.com\accommodation\index.htm
+Content Type: text/html
+
+Uri: https://www.wayaheadoverseas.com/admission-proccess/
+File Name: E:\zetetikoz data base for web site creations\parent website\www.wayaheadoverseas.com\admission-proccess\index.htm
+Content Type: text/html
+
+Uri: https://www.wayaheadoverseas.com/admission-requirements/
+File Name: E:\zetetikoz data base for web site creations\parent website\www.wayaheadoverseas.com\admission-requirements\index.htm
+Content Type: text/html
+
+Uri: https://www.wayaheadoverseas.com/transfer-students/
+File Name: E:\zetetikoz data base for web site creations\parent website\www.wayaheadoverseas.com\transfer-students\index.htm
+Content Type: text/html
+
+Uri: https://www.wayaheadoverseas.com/fee-details/
+File Name: E:\zetetikoz data base for web site creations\parent website\www.wayaheadoverseas.com\fee-details\index.htm
+Content Type: text/html
+
+Uri: https://www.wayaheadoverseas.com/ukraine-fee-details/
+File Name: E:\zetetikoz data base for web site creations\parent website\www.wayaheadoverseas.com\ukraine-fee-details\index.htm
+Content Type: text/html
+
+Uri: https://www.wayaheadoverseas.com/russia-fee-details/
+File Name: E:\zetetikoz data base for web site creations\parent website\www.wayaheadoverseas.com\russia-fee-details\index.htm
+Content Type: text/html
+
+Uri: https://www.wayaheadoverseas.com/how-to-obtain-visa/
+File Name: E:\zetetikoz data base for web site creations\parent website\www.wayaheadoverseas.com\how-to-obtain-visa\index.htm
+Content Type: text/html
+
+Uri: https://www.wayaheadoverseas.com/predeparture-briefing/
+File Name: E:\zetetikoz data base for web site creations\parent website\www.wayaheadoverseas.com\predeparture-briefing\index.htm
+Content Type: text/html
+
+Uri: https://www.wayaheadoverseas.com/arrival-airport-pickup/
+File Name: E:\zetetikoz data base for web site creations\parent website\www.wayaheadoverseas.com\arrival-airport-pickup\index.htm
+Content Type: text/html
+
+Uri: https://www.wayaheadoverseas.com/video/
+File Name: E:\zetetikoz data base for web site creations\parent website\www.wayaheadoverseas.com\video\index.htm
+Content Type: text/html
+
+Uri: https://www.wayaheadoverseas.com/our-students/
+File Name: E:\zetetikoz data base for web site creations\parent website\www.wayaheadoverseas.com\our-students\index.htm
+Content Type: text/html
+
+Uri: https://www.wayaheadoverseas.com/apply-online/
+File Name: E:\zetetikoz data base for web site creations\parent website\www.wayaheadoverseas.com\apply-online\index.htm
+Content Type: text/html
+
+Uri: https://www.wayaheadoverseas.com/irkutsk-state-medical-university/
+File Name: E:\zetetikoz data base for web site creations\parent website\www.wayaheadoverseas.com\irkutsk-state-medical-university\index.htm
+Content Type: text/html
+
+Uri: https://www.wayaheadoverseas.com/siberian-state-medical-university/
+File Name: E:\zetetikoz data base for web site creations\parent website\www.wayaheadoverseas.com\siberian-state-medical-university\index.htm
+Content Type: text/html
+
+Uri: https://www.wayaheadoverseas.com/first-moscow-state-medical-university-named-m-sechenova/
+File Name: E:\zetetikoz data base for web site creations\parent website\www.wayaheadoverseas.com\first-moscow-state-medical-university-named-m-sechenova\index.htm
+Content Type: text/html
+
+Uri: https://www.wayaheadoverseas.com/dagestan-state-medical-university/
+File Name: E:\zetetikoz data base for web site creations\parent website\www.wayaheadoverseas.com\dagestan-state-medical-university\index.htm
+Content Type: text/html
+
+Uri: https://www.wayaheadoverseas.com/donetsk-national-medical-university/
+File Name: E:\zetetikoz data base for web site creations\parent website\www.wayaheadoverseas.com\donetsk-national-medical-university\index.htm
+Content Type: text/html
+
+Uri: https://www.wayaheadoverseas.com/odessa-national-medical-university/
+File Name: E:\zetetikoz data base for web site creations\parent website\www.wayaheadoverseas.com\odessa-national-medical-university\index.htm
+Content Type: text/html
+
+Uri: https://www.wayaheadoverseas.com/black-sea-state-university/
+File Name: E:\zetetikoz data base for web site creations\parent website\www.wayaheadoverseas.com\black-sea-state-university\index.htm
+Content Type: text/html
+
+Uri: https://www.wayaheadoverseas.com/poltava-medical-dental-university-ukrainian-medical-dental-academy/
+File Name: E:\zetetikoz data base for web site creations\parent website\www.wayaheadoverseas.com\poltava-medical-dental-university-ukrainian-medical-dental-academy\index.htm
+Content Type: text/html
+
+Uri: https://www.wayaheadoverseas.com/wp-content/themes/mbbs/images/img-11-retina.jpg
+File Name: E:\zetetikoz data base for web site creations\parent website\www.wayaheadoverseas.com\wp-content\themes\mbbs\images\img-11-retina.jpg
+Content Type: image/jpeg
+
+Uri: https://www.wayaheadoverseas.com/wp-content/themes/mbbs/script/modernizr.js
+File Name: E:\zetetikoz data base for web site creations\parent website\www.wayaheadoverseas.com\wp-content\themes\mbbs\script\modernizr.js
+Content Type: application/javascript
+
+Uri: https://www.wayaheadoverseas.com/wp-content/themes/mbbs/script/jquery.js
+File Name: E:\zetetikoz data base for web site creations\parent website\www.wayaheadoverseas.com\wp-content\themes\mbbs\script\jquery.js
+Content Type: application/javascript
+
+Uri: https://www.wayaheadoverseas.com/wp-content/themes/mbbs/script/jquery-ui.js
+File Name: E:\zetetikoz data base for web site creations\parent website\www.wayaheadoverseas.com\wp-content\themes\mbbs\script\jquery-ui.js
+Content Type: application/javascript
+
+Uri: https://www.wayaheadoverseas.com/wp-content/themes/mbbs/script/jquery.flexslider.js
+File Name: E:\zetetikoz data base for web site creations\parent website\www.wayaheadoverseas.com\wp-content\themes\mbbs\script\jquery.flexslider.js
+Content Type: application/javascript
+
+Uri: https://www.wayaheadoverseas.com/wp-content/themes/mbbs/script/jquery.prettyPhoto.js
+File Name: E:\zetetikoz data base for web site creations\parent website\www.wayaheadoverseas.com\wp-content\themes\mbbs\script\jquery.prettyPhoto.js
+Content Type: application/javascript
+
+Uri: https://www.wayaheadoverseas.com/wp-content/themes/mbbs/script/jquery.retina.js
+File Name: E:\zetetikoz data base for web site creations\parent website\www.wayaheadoverseas.com\wp-content\themes\mbbs\script\jquery.retina.js
+Content Type: application/javascript
+
+Uri: https://www.wayaheadoverseas.com/wp-includes/js/jquery/jquery.js?ver=1.12.4
+File Name: E:\zetetikoz data base for web site creations\parent website\www.wayaheadoverseas.com\wp-includes\js\jquery\jquery.js
+Content Type: application/javascript
+
+Uri: https://www.wayaheadoverseas.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1
+File Name: E:\zetetikoz data base for web site creations\parent website\www.wayaheadoverseas.com\wp-includes\js\jquery\jquery-migrate.min.js
+Content Type: application/javascript
+
+Uri: https://www.wayaheadoverseas.com/wp-content/themes/mbbs/images/logo.png
+File Name: E:\zetetikoz data base for web site creations\parent website\www.wayaheadoverseas.com\wp-content\themes\mbbs\images\logo.png
+Content Type: image/png
+
+Uri: https://www.wayaheadoverseas.com/wp-content/themes/mbbs/images/img-2.jpg
+File Name: E:\zetetikoz data base for web site creations\parent website\www.wayaheadoverseas.com\wp-content\themes\mbbs\images\img-2.jpg
+Content Type: image/jpeg
+
+Uri: https://www.wayaheadoverseas.com/wp-content/themes/mbbs/images/img-3.jpg
+File Name: E:\zetetikoz data base for web site creations\parent website\www.wayaheadoverseas.com\wp-content\themes\mbbs\images\img-3.jpg
+Content Type: image/jpeg
+
+Uri: https://www.wayaheadoverseas.com/wp-content/themes/mbbs/images/irkmed.jpg
+File Name: E:\zetetikoz data base for web site creations\parent website\www.wayaheadoverseas.com\wp-content\themes\mbbs\images\irkmed.jpg
+Content Type: image/jpeg
+
+Uri: https://www.wayaheadoverseas.com/wp-content/themes/mbbs/images/sibmed.jpg
+File Name: E:\zetetikoz data base for web site creations\parent website\www.wayaheadoverseas.com\wp-content\themes\mbbs\images\sibmed.jpg
+Content Type: image/jpeg
+
+Uri: https://www.wayaheadoverseas.com/wp-content/themes/mbbs/images/mosmed.jpg
+File Name: E:\zetetikoz data base for web site creations\parent website\www.wayaheadoverseas.com\wp-content\themes\mbbs\images\mosmed.jpg
+Content Type: image/jpeg
+
+Uri: https://www.wayaheadoverseas.com/wp-content/themes/mbbs/images/dagmed.jpg
+File Name: E:\zetetikoz data base for web site creations\parent website\www.wayaheadoverseas.com\wp-content\themes\mbbs\images\dagmed.jpg
+Content Type: image/jpeg
+
+Uri: https://www.wayaheadoverseas.com/wp-content/themes/mbbs/images/kirovohrad.jpg
+File Name: E:\zetetikoz data base for web site creations\parent website\www.wayaheadoverseas.com\wp-content\themes\mbbs\images\kirovohrad.jpg
+Content Type: image/jpeg
+
+Uri: https://www.wayaheadoverseas.com/wp-content/themes/mbbs/images/img-41.jpg
+File Name: E:\zetetikoz data base for web site creations\parent website\www.wayaheadoverseas.com\wp-content\themes\mbbs\images\img-41.jpg
+Content Type: image/jpeg
+
+Uri: https://www.wayaheadoverseas.com/wp-content/themes/mbbs/images/blsea.jpg
+File Name: E:\zetetikoz data base for web site creations\parent website\www.wayaheadoverseas.com\wp-content\themes\mbbs\images\blsea.jpg
+Content Type: image/jpeg
+
+Uri: https://www.wayaheadoverseas.com/wp-content/themes/mbbs/images/img-71.jpg
+File Name: E:\zetetikoz data base for web site creations\parent website\www.wayaheadoverseas.com\wp-content\themes\mbbs\images\img-71.jpg
+Content Type: image/jpeg
+
+Uri: https://www.wayaheadoverseas.com/wp-content/themes/mbbs/images/icon-sidebar-1.png
+File Name: E:\zetetikoz data base for web site creations\parent website\www.wayaheadoverseas.com\wp-content\themes\mbbs\images\icon-sidebar-1.png
+Content Type: image/png
+
+Uri: https://www.wayaheadoverseas.com/wp-content/themes/mbbs/images/icon-sidebar-2.png
+File Name: E:\zetetikoz data base for web site creations\parent website\www.wayaheadoverseas.com\wp-content\themes\mbbs\images\icon-sidebar-2.png
+Content Type: image/png
+
+Uri: https://www.wayaheadoverseas.com/wp-content/themes/mbbs/images/icon-sidebar-3.png
+File Name: E:\zetetikoz data base for web site creations\parent website\www.wayaheadoverseas.com\wp-content\themes\mbbs\images\icon-sidebar-3.png
+Content Type: image/png
+
+Uri: https://www.wayaheadoverseas.com/wp-content/themes/mbbs/images/icon-sidebar-4.png
+File Name: E:\zetetikoz data base for web site creations\parent website\www.wayaheadoverseas.com\wp-content\themes\mbbs\images\icon-sidebar-4.png
+Content Type: image/png
+
+Uri: https://www.wayaheadoverseas.com/wp-content/themes/mbbs/images/icon-sidebar-5.png
+File Name: E:\zetetikoz data base for web site creations\parent website\www.wayaheadoverseas.com\wp-content\themes\mbbs\images\icon-sidebar-5.png
+Content Type: image/png
+
+Uri: https://www.wayaheadoverseas.com/wp-content/themes/mbbs/images/img-9.jpg
+File Name: E:\zetetikoz data base for web site creations\parent website\www.wayaheadoverseas.com\wp-content\themes\mbbs\images\img-9.jpg
+Content Type: image/jpeg
+
+Uri: https://www.wayaheadoverseas.com/wp-content/themes/mbbs/images/img-12.png
+File Name: E:\zetetikoz data base for web site creations\parent website\www.wayaheadoverseas.com\wp-content\themes\mbbs\images\img-12.png
+Content Type: image/png
+
+Uri: https://www.wayaheadoverseas.com/wp-content/themes/mbbs/images/logo-footer.png
+File Name: E:\zetetikoz data base for web site creations\parent website\www.wayaheadoverseas.com\wp-content\themes\mbbs\images\logo-footer.png
+Content Type: image/png
+
+Uri: https://www.wayaheadoverseas.com/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=5.0.1
+File Name: E:\zetetikoz data base for web site creations\parent website\www.wayaheadoverseas.com\wp-content\plugins\contact-form-7\includes\js\scripts.js
+Content Type: application/javascript
+
+Uri: https://www.wayaheadoverseas.com/wp-includes/js/wp-embed.min.js?ver=4.9.13
+File Name: E:\zetetikoz data base for web site creations\parent website\www.wayaheadoverseas.com\wp-includes\js\wp-embed.min.js
+Content Type: application/javascript
+
+Uri: https://www.wayaheadoverseas.com/wp-content/themes/mbbs/images/icon-search.png
+File Name: E:\zetetikoz data base for web site creations\parent website\www.wayaheadoverseas.com\wp-content\themes\mbbs\images\icon-search.png
+Content Type: image/png
+
+Uri: https://www.wayaheadoverseas.com/wp-content/themes/mbbs/images/sep-tabs.png
+File Name: E:\zetetikoz data base for web site creations\parent website\www.wayaheadoverseas.com\wp-content\themes\mbbs\images\sep-tabs.png
+Content Type: image/png
+
+Uri: https://www.wayaheadoverseas.com/wp-content/themes/mbbs/images/arrow-more.png
+File Name: E:\zetetikoz data base for web site creations\parent website\www.wayaheadoverseas.com\wp-content\themes\mbbs\images\arrow-more.png
+Content Type: image/png
+
+Uri: https://www.wayaheadoverseas.com/wp-content/themes/mbbs/images/arrow-prev-slide.png
+File Name: E:\zetetikoz data base for web site creations\parent website\www.wayaheadoverseas.com\wp-content\themes\mbbs\images\arrow-prev-slide.png
+Content Type: image/png
+
+Uri: https://www.wayaheadoverseas.com/wp-content/themes/mbbs/images/arrow-next-slide.png
+File Name: E:\zetetikoz data base for web site creations\parent website\www.wayaheadoverseas.com\wp-content\themes\mbbs\images\arrow-next-slide.png
+Content Type: image/png
+
+Uri: https://www.wayaheadoverseas.com/wp-content/themes/mbbs/images/icon-calendar-slider.png
+File Name: E:\zetetikoz data base for web site creations\parent website\www.wayaheadoverseas.com\wp-content\themes\mbbs\images\icon-calendar-slider.png
+Content Type: image/png
+
+Uri: https://www.wayaheadoverseas.com/wp-content/themes/mbbs/images/icon-hour-slider.png
+File Name: E:\zetetikoz data base for web site creations\parent website\www.wayaheadoverseas.com\wp-content\themes\mbbs\images\icon-hour-slider.png
+Content Type: image/png
+
+Uri: https://www.wayaheadoverseas.com/wp-content/themes/mbbs/images/icon-location-slider.png
+File Name: E:\zetetikoz data base for web site creations\parent website\www.wayaheadoverseas.com\wp-content\themes\mbbs\images\icon-location-slider.png
+Content Type: image/png
+
+Uri: https://www.wayaheadoverseas.com/wp-content/themes/mbbs/images/icon-home.png
+File Name: E:\zetetikoz data base for web site creations\parent website\www.wayaheadoverseas.com\wp-content\themes\mbbs\images\icon-home.png
+Content Type: image/png
+
+Uri: https://www.wayaheadoverseas.com/wp-content/themes/mbbs/images/arrow-breadcrumbs.png
+File Name: E:\zetetikoz data base for web site creations\parent website\www.wayaheadoverseas.com\wp-content\themes\mbbs\images\arrow-breadcrumbs.png
+Content Type: image/png
+
+Uri: https://www.wayaheadoverseas.com/wp-content/themes/mbbs/images/sep-tabs-bottom.png
+File Name: E:\zetetikoz data base for web site creations\parent website\www.wayaheadoverseas.com\wp-content\themes\mbbs\images\sep-tabs-bottom.png
+Content Type: image/png
+
+Uri: https://www.wayaheadoverseas.com/wp-content/themes/mbbs/images/prev-partners.png
+File Name: E:\zetetikoz data base for web site creations\parent website\www.wayaheadoverseas.com\wp-content\themes\mbbs\images\prev-partners.png
+Content Type: image/png
+
+Uri: https://www.wayaheadoverseas.com/wp-content/themes/mbbs/images/next-partners.png
+File Name: E:\zetetikoz data base for web site creations\parent website\www.wayaheadoverseas.com\wp-content\themes\mbbs\images\next-partners.png
+Content Type: image/png
+
+Uri: https://www.wayaheadoverseas.com/wp-content/themes/mbbs/images/icon-comment.png
+File Name: E:\zetetikoz data base for web site creations\parent website\www.wayaheadoverseas.com\wp-content\themes\mbbs\images\icon-comment.png
+Content Type: image/png
+
+Uri: https://www.wayaheadoverseas.com/wp-content/themes/mbbs/images/line-history.png
+File Name: E:\zetetikoz data base for web site creations\parent website\www.wayaheadoverseas.com\wp-content\themes\mbbs\images\line-history.png
+Content Type: image/png
+
+Uri: https://www.wayaheadoverseas.com/wp-content/themes/mbbs/images/icon-plus.png
+File Name: E:\zetetikoz data base for web site creations\parent website\www.wayaheadoverseas.com\wp-content\themes\mbbs\images\icon-plus.png
+Content Type: image/png
+
+Uri: https://www.wayaheadoverseas.com/wp-content/themes/mbbs/images/icon-minus.png
+File Name: E:\zetetikoz data base for web site creations\parent website\www.wayaheadoverseas.com\wp-content\themes\mbbs\images\icon-minus.png
+Content Type: image/png
+
+Uri: https://www.wayaheadoverseas.com/wp-content/themes/mbbs/images/quote-testimonial.png
+File Name: E:\zetetikoz data base for web site creations\parent website\www.wayaheadoverseas.com\wp-content\themes\mbbs\images\quote-testimonial.png
+Content Type: image/png
+
+Uri: https://www.wayaheadoverseas.com/wp-content/themes/mbbs/images/icon-facebook.png
+File Name: E:\zetetikoz data base for web site creations\parent website\www.wayaheadoverseas.com\wp-content\themes\mbbs\images\icon-facebook.png
+Content Type: image/png
+
+Uri: https://www.wayaheadoverseas.com/wp-content/themes/mbbs/images/icon-twitter.png
+File Name: E:\zetetikoz data base for web site creations\parent website\www.wayaheadoverseas.com\wp-content\themes\mbbs\images\icon-twitter.png
+Content Type: image/png
+
+Uri: https://www.wayaheadoverseas.com/wp-content/themes/mbbs/images/icon-gplus.png
+File Name: E:\zetetikoz data base for web site creations\parent website\www.wayaheadoverseas.com\wp-content\themes\mbbs\images\icon-gplus.png
+Content Type: image/png
+
+Uri: https://www.wayaheadoverseas.com/wp-content/themes/mbbs/images/icon-linkedin.png
+File Name: E:\zetetikoz data base for web site creations\parent website\www.wayaheadoverseas.com\wp-content\themes\mbbs\images\icon-linkedin.png
+Content Type: image/png
+
+Uri: https://www.wayaheadoverseas.com/wp-content/themes/mbbs/images/quote-sidebar.png
+File Name: E:\zetetikoz data base for web site creations\parent website\www.wayaheadoverseas.com\wp-content\themes\mbbs\images\quote-sidebar.png
+Content Type: image/png
+
+Uri: https://www.wayaheadoverseas.com/wp-content/themes/mbbs/images/icon-calendar-widget.png
+File Name: E:\zetetikoz data base for web site creations\parent website\www.wayaheadoverseas.com\wp-content\themes\mbbs\images\icon-calendar-widget.png
+Content Type: image/png
+
+Uri: https://www.wayaheadoverseas.com/wp-content/themes/mbbs/images/quote.png
+File Name: E:\zetetikoz data base for web site creations\parent website\www.wayaheadoverseas.com\wp-content\themes\mbbs\images\quote.png
+Content Type: image/png
+
+Uri: https://www.wayaheadoverseas.com/wp-content/themes/mbbs/images/arrow-top.png
+File Name: E:\zetetikoz data base for web site creations\parent website\www.wayaheadoverseas.com\wp-content\themes\mbbs\images\arrow-top.png
+Content Type: image/png
+
+Uri: https://www.wayaheadoverseas.com/wp-content/themes/mbbs/images/footer-dark.png
+File Name: E:\zetetikoz data base for web site creations\parent website\www.wayaheadoverseas.com\wp-content\themes\mbbs\images\footer-dark.png
+Content Type: image/png
+
+Uri: https://www.wayaheadoverseas.com/wp-content/themes/mbbs/images/corner.png
+File Name: E:\zetetikoz data base for web site creations\parent website\www.wayaheadoverseas.com\wp-content\themes\mbbs\images\corner.png
+Content Type: image/png
+
+Uri: https://www.wayaheadoverseas.com/wp-content/themes/mbbs/images/icon-youtube.png
+File Name: E:\zetetikoz data base for web site creations\parent website\www.wayaheadoverseas.com\wp-content\themes\mbbs\images\icon-youtube.png
+Content Type: image/png
+
+Uri: https://www.wayaheadoverseas.com/wp-content/themes/mbbs/images/icon-flickr.png
+File Name: E:\zetetikoz data base for web site creations\parent website\www.wayaheadoverseas.com\wp-content\themes\mbbs\images\icon-flickr.png
+Content Type: image/png
+
+Uri: https://www.wayaheadoverseas.com/page/2/
+File Name: E:\zetetikoz data base for web site creations\parent website\www.wayaheadoverseas.com\page\2\index.htm
+Content Type: text/html
+
+Uri: https://www.wayaheadoverseas.com/wp-content/plugins/contact-form-7/images/ajax-loader.gif
+File Name: E:\zetetikoz data base for web site creations\parent website\www.wayaheadoverseas.com\wp-content\plugins\contact-form-7\images\ajax-loader.gif
+Content Type: image/gif
+
+Uri: https://www.wayaheadoverseas.com/mbbs-in-russia/
+File Name: E:\zetetikoz data base for web site creations\parent website\www.wayaheadoverseas.com\mbbs-in-russia\index.htm
+Content Type: text/html
+
+Uri: https://www.wayaheadoverseas.com/engineering-in-russia/
+File Name: E:\zetetikoz data base for web site creations\parent website\www.wayaheadoverseas.com\engineering-in-russia\index.htm
+Content Type: text/html
+
+Uri: https://www.wayaheadoverseas.com/mbbs-in-ukraine/
+File Name: E:\zetetikoz data base for web site creations\parent website\www.wayaheadoverseas.com\mbbs-in-ukraine\index.htm
+Content Type: text/html
+
+Uri: https://www.wayaheadoverseas.com/engineering-in-ukraine/
+File Name: E:\zetetikoz data base for web site creations\parent website\www.wayaheadoverseas.com\engineering-in-ukraine\index.htm
+Content Type: text/html
+
+Uri: https://www.wayaheadoverseas.com/postgraduate-education/
+File Name: E:\zetetikoz data base for web site creations\parent website\www.wayaheadoverseas.com\postgraduate-education\index.htm
+Content Type: text/html
+
+Uri: https://www.wayaheadoverseas.com/wp-content/themes/mbbs/images/open.jpg
+File Name: E:\zetetikoz data base for web site creations\parent website\www.wayaheadoverseas.com\wp-content\themes\mbbs\images\open.jpg
+Content Type: image/jpeg
+
+Uri: https://www.wayaheadoverseas.com/wp-content/uploads/2016/05/Outline_of_Russia-300x178.png
+File Name: E:\zetetikoz data base for web site creations\parent website\www.wayaheadoverseas.com\wp-content\uploads\2016\05\Outline_of_Russia-300x178.png
+Content Type: image/png
+
+Uri: https://www.wayaheadoverseas.com/wp-content/uploads/2016/05/Outline_of_Russia-768x456.png
+File Name: E:\zetetikoz data base for web site creations\parent website\www.wayaheadoverseas.com\wp-content\uploads\2016\05\Outline_of_Russia-768x456.png
+Content Type: image/png
+
+Uri: https://www.wayaheadoverseas.com/wp-content/uploads/2016/05/Outline_of_Russia-1024x608.png
+File Name: E:\zetetikoz data base for web site creations\parent website\www.wayaheadoverseas.com\wp-content\uploads\2016\05\Outline_of_Russia-1024x608.png
+Content Type: image/png
+
+Uri: https://www.wayaheadoverseas.com/wp-content/uploads/2016/05/why-russia-300x200.jpg
+File Name: E:\zetetikoz data base for web site creations\parent website\www.wayaheadoverseas.com\wp-content\uploads\2016\05\why-russia-300x200.jpg
+Content Type: image/jpeg
+
+Uri: https://www.wayaheadoverseas.com/wp-content/uploads/2016/05/why-russia-768x512.jpg
+File Name: E:\zetetikoz data base for web site creations\parent website\www.wayaheadoverseas.com\wp-content\uploads\2016\05\why-russia-768x512.jpg
+Content Type: image/jpeg
+
+Uri: https://www.wayaheadoverseas.com/wp-content/uploads/2016/05/why-russia.jpg
+File Name: E:\zetetikoz data base for web site creations\parent website\www.wayaheadoverseas.com\wp-content\uploads\2016\05\why-russia.jpg
+Content Type: image/jpeg
+
+Uri: https://www.wayaheadoverseas.com/wp-content/uploads/2016/05/educaton-in-Russia-300x127.jpg
+File Name: E:\zetetikoz data base for web site creations\parent website\www.wayaheadoverseas.com\wp-content\uploads\2016\05\educaton-in-Russia-300x127.jpg
+Content Type: image/jpeg
+
+Uri: https://www.wayaheadoverseas.com/wp-content/uploads/2016/05/educaton-in-Russia-768x324.jpg
+File Name: E:\zetetikoz data base for web site creations\parent website\www.wayaheadoverseas.com\wp-content\uploads\2016\05\educaton-in-Russia-768x324.jpg
+Content Type: image/jpeg
+
+Uri: https://www.wayaheadoverseas.com/wp-content/uploads/2016/05/educaton-in-Russia-1024x432.jpg
+File Name: E:\zetetikoz data base for web site creations\parent website\www.wayaheadoverseas.com\wp-content\uploads\2016\05\educaton-in-Russia-1024x432.jpg
+Content Type: image/jpeg
+
+Uri: https://www.wayaheadoverseas.com/wp-content/uploads/2016/05/educaton-in-Russia.jpg
+File Name: E:\zetetikoz data base for web site creations\parent website\www.wayaheadoverseas.com\wp-content\uploads\2016\05\educaton-in-Russia.jpg
+Content Type: image/jpeg
+
+Uri: https://www.wayaheadoverseas.com/wp-content/uploads/2016/05/About-Ukraine-300x202.png
+File Name: E:\zetetikoz data base for web site creations\parent website\www.wayaheadoverseas.com\wp-content\uploads\2016\05\About-Ukraine-300x202.png
+Content Type: image/png
+
+Uri: https://www.wayaheadoverseas.com/wp-content/uploads/2016/05/About-Ukraine-768x516.png
+File Name: E:\zetetikoz data base for web site creations\parent website\www.wayaheadoverseas.com\wp-content\uploads\2016\05\About-Ukraine-768x516.png
+Content Type: image/png
+
+Uri: https://www.wayaheadoverseas.com/wp-content/uploads/2016/05/About-Ukraine-1024x689.png
+File Name: E:\zetetikoz data base for web site creations\parent website\www.wayaheadoverseas.com\wp-content\uploads\2016\05\About-Ukraine-1024x689.png
+Content Type: image/png
+
+Uri: https://www.wayaheadoverseas.com/wp-content/uploads/2016/05/говорова.jpg
+File Name: E:\zetetikoz data base for web site creations\parent website\www.wayaheadoverseas.com\wp-content\uploads\2016\05\говорова.jpg
+Content Type: image/jpeg
+
+Uri: https://www.wayaheadoverseas.com/wp-content/uploads/2016/05/говорова-300x112.jpg
+File Name: E:\zetetikoz data base for web site creations\parent website\www.wayaheadoverseas.com\wp-content\uploads\2016\05\говорова-300x112.jpg
+Content Type: image/jpeg
+
+Uri: https://www.wayaheadoverseas.com/wp-content/uploads/2016/05/говорова-768x287.jpg
+File Name: E:\zetetikoz data base for web site creations\parent website\www.wayaheadoverseas.com\wp-content\uploads\2016\05\говорова-768x287.jpg
+Content Type: image/jpeg
+
+Uri: https://www.wayaheadoverseas.com/wp-content/uploads/2016/05/University_of_Chernivtsi-300x224.jpg
+File Name: E:\zetetikoz data base for web site creations\parent website\www.wayaheadoverseas.com\wp-content\uploads\2016\05\University_of_Chernivtsi-300x224.jpg
+Content Type: image/jpeg
+
+Uri: https://www.wayaheadoverseas.com/wp-content/uploads/2016/05/University_of_Chernivtsi-768x574.jpg
+File Name: E:\zetetikoz data base for web site creations\parent website\www.wayaheadoverseas.com\wp-content\uploads\2016\05\University_of_Chernivtsi-768x574.jpg
+Content Type: image/jpeg
+
+Uri: https://www.wayaheadoverseas.com/wp-content/uploads/2016/05/University_of_Chernivtsi-1024x766.jpg
+File Name: E:\zetetikoz data base for web site creations\parent website\www.wayaheadoverseas.com\wp-content\uploads\2016\05\University_of_Chernivtsi-1024x766.jpg
+Content Type: image/jpeg
+
+Uri: https://www.wayaheadoverseas.com/universities/page/2/
+File Name: E:\zetetikoz data base for web site creations\parent website\www.wayaheadoverseas.com\universities\page\2\index.htm
+Content Type: text/html
+
+Uri: https://www.wayaheadoverseas.com/chechen-state-university/
+File Name: E:\zetetikoz data base for web site creations\parent website\www.wayaheadoverseas.com\chechen-state-university\index.htm
+Content Type: text/html
+
+Uri: https://www.wayaheadoverseas.com/lviv-national-medical-university/
+File Name: E:\zetetikoz data base for web site creations\parent website\www.wayaheadoverseas.com\lviv-national-medical-university\index.htm
+Content Type: text/html
+
+Uri: https://www.wayaheadoverseas.com/sumy-state-university/
+File Name: E:\zetetikoz data base for web site creations\parent website\www.wayaheadoverseas.com\sumy-state-university\index.htm
+Content Type: text/html
+
+Uri: https://www.wayaheadoverseas.com/russian-national-research-medical-university-named-ni-pirogov/
+File Name: E:\zetetikoz data base for web site creations\parent website\www.wayaheadoverseas.com\russian-national-research-medical-university-named-ni-pirogov\index.htm
+Content Type: text/html
+
+Uri: https://www.wayaheadoverseas.com/central-ukrainian-national-technical-university/
+File Name: E:\zetetikoz data base for web site creations\parent website\www.wayaheadoverseas.com\central-ukrainian-national-technical-university\index.htm
+Content Type: text/html
+
+Uri: https://www.wayaheadoverseas.com/universities/page/3/
+File Name: E:\zetetikoz data base for web site creations\parent website\www.wayaheadoverseas.com\universities\page\3\index.htm
+Content Type: text/html
+
+Uri: https://www.wayaheadoverseas.com/universities/page/6/
+File Name: E:\zetetikoz data base for web site creations\parent website\www.wayaheadoverseas.com\universities\page\6\index.htm
+Content Type: text/html
+
+Uri: https://www.wayaheadoverseas.com/wp-content/uploads/2019/08/edugain_chesu-300x165.jpg
+File Name: E:\zetetikoz data base for web site creations\parent website\www.wayaheadoverseas.com\wp-content\uploads\2019\08\edugain_chesu-300x165.jpg
+Content Type: image/jpeg
+
+Uri: https://www.wayaheadoverseas.com/wp-content/uploads/2019/04/lnmuy-300x166.jpg
+File Name: E:\zetetikoz data base for web site creations\parent website\www.wayaheadoverseas.com\wp-content\uploads\2019\04\lnmuy-300x166.jpg
+Content Type: image/jpeg
+
+Uri: https://www.wayaheadoverseas.com/wp-content/uploads/2016/06/Donetsk-National-Medical-University-4-300x168.jpg
+File Name: E:\zetetikoz data base for web site creations\parent website\www.wayaheadoverseas.com\wp-content\uploads\2016\06\Donetsk-National-Medical-University-4-300x168.jpg
+Content Type: image/jpeg
+
+Uri: https://www.wayaheadoverseas.com/wp-content/uploads/2016/12/53-300x162.jpg
+File Name: E:\zetetikoz data base for web site creations\parent website\www.wayaheadoverseas.com\wp-content\uploads\2016\12\53-300x162.jpg
+Content Type: image/jpeg
+
+Uri: https://www.wayaheadoverseas.com/wp-content/uploads/2016/06/SIBERIAN_STATE_MEDICAL_UNIVERSITY-300x200.jpg
+File Name: E:\zetetikoz data base for web site creations\parent website\www.wayaheadoverseas.com\wp-content\uploads\2016\06\SIBERIAN_STATE_MEDICAL_UNIVERSITY-300x200.jpg
+Content Type: image/jpeg
+
+Uri: https://www.wayaheadoverseas.com/wp-content/uploads/2016/06/Odessa-National-Medical-University-750x450-300x180.jpg
+File Name: E:\zetetikoz data base for web site creations\parent website\www.wayaheadoverseas.com\wp-content\uploads\2016\06\Odessa-National-Medical-University-750x450-300x180.jpg
+Content Type: image/jpeg
+
+Uri: https://www.wayaheadoverseas.com/wp-content/uploads/2019/08/edugain_chesu.jpg
+File Name: E:\zetetikoz data base for web site creations\parent website\www.wayaheadoverseas.com\wp-content\uploads\2019\08\edugain_chesu.jpg
+Content Type: image/jpeg
+
+Uri: https://www.wayaheadoverseas.com/wp-content/uploads/2019/04/lnmuy.jpg
+File Name: E:\zetetikoz data base for web site creations\parent website\www.wayaheadoverseas.com\wp-content\uploads\2019\04\lnmuy.jpg
+Content Type: image/jpeg
+
+Uri: https://www.wayaheadoverseas.com/wp-content/uploads/2016/06/Donetsk-National-Medical-University-4.jpg
+File Name: E:\zetetikoz data base for web site creations\parent website\www.wayaheadoverseas.com\wp-content\uploads\2016\06\Donetsk-National-Medical-University-4.jpg
+Content Type: image/jpeg
+
+Uri: https://www.wayaheadoverseas.com/wp-content/uploads/2016/12/53.jpg
+File Name: E:\zetetikoz data base for web site creations\parent website\www.wayaheadoverseas.com\wp-content\uploads\2016\12\53.jpg
+Content Type: image/jpeg
+
+Uri: https://www.wayaheadoverseas.com/wp-content/uploads/2016/06/SIBERIAN_STATE_MEDICAL_UNIVERSITY-768x512.jpg
+File Name: E:\zetetikoz data base for web site creations\parent website\www.wayaheadoverseas.com\wp-content\uploads\2016\06\SIBERIAN_STATE_MEDICAL_UNIVERSITY-768x512.jpg
+Content Type: image/jpeg
+
+Uri: https://www.wayaheadoverseas.com/wp-content/uploads/2016/06/SIBERIAN_STATE_MEDICAL_UNIVERSITY.jpg
+File Name: E:\zetetikoz data base for web site creations\parent website\www.wayaheadoverseas.com\wp-content\uploads\2016\06\SIBERIAN_STATE_MEDICAL_UNIVERSITY.jpg
+Content Type: image/jpeg
+
+Uri: https://www.wayaheadoverseas.com/wp-content/uploads/2016/06/Odessa-National-Medical-University-750x450.jpg
+File Name: E:\zetetikoz data base for web site creations\parent website\www.wayaheadoverseas.com\wp-content\uploads\2016\06\Odessa-National-Medical-University-750x450.jpg
+Content Type: image/jpeg
+
+Uri: https://www.wayaheadoverseas.com/dnepropetrovsk-state-medical-academy/
+File Name: E:\zetetikoz data base for web site creations\parent website\www.wayaheadoverseas.com\dnepropetrovsk-state-medical-academy\index.htm
+Content Type: text/html
+
+Uri: https://www.wayaheadoverseas.com/vinnitsa-national-medical-university/
+File Name: E:\zetetikoz data base for web site creations\parent website\www.wayaheadoverseas.com\vinnitsa-national-medical-university\index.htm
+Content Type: text/html
+
+Uri: https://www.wayaheadoverseas.com/v-n-karazin-kharkiv-national-university/
+File Name: E:\zetetikoz data base for web site creations\parent website\www.wayaheadoverseas.com\v-n-karazin-kharkiv-national-university\index.htm
+Content Type: text/html
+
+Uri: https://www.wayaheadoverseas.com/bogomolets-national-medical-university/
+File Name: E:\zetetikoz data base for web site creations\parent website\www.wayaheadoverseas.com\bogomolets-national-medical-university\index.htm
+Content Type: text/html
+
+Uri: https://www.wayaheadoverseas.com/kharkiv-national-medical-university/
+File Name: E:\zetetikoz data base for web site creations\parent website\www.wayaheadoverseas.com\kharkiv-national-medical-university\index.htm
+Content Type: text/html
+
+Uri: https://www.wayaheadoverseas.com/zaporozhye-state-medical-university/
+File Name: E:\zetetikoz data base for web site creations\parent website\www.wayaheadoverseas.com\zaporozhye-state-medical-university\index.htm
+Content Type: text/html
+
+Uri: https://www.wayaheadoverseas.com/bukovinian-state-medical-university/
+File Name: E:\zetetikoz data base for web site creations\parent website\www.wayaheadoverseas.com\bukovinian-state-medical-university\index.htm
+Content Type: text/html
+
+Uri: https://www.wayaheadoverseas.com/lugansk-state-medical-university/
+File Name: E:\zetetikoz data base for web site creations\parent website\www.wayaheadoverseas.com\lugansk-state-medical-university\index.htm
+Content Type: text/html
+
+Uri: https://www.wayaheadoverseas.com/ternopil-state-medical-university/
+File Name: E:\zetetikoz data base for web site creations\parent website\www.wayaheadoverseas.com\ternopil-state-medical-university\index.htm
+Content Type: text/html
+
+Uri: https://www.wayaheadoverseas.com/ivano-frankivsk-national-medical-university/
+File Name: E:\zetetikoz data base for web site creations\parent website\www.wayaheadoverseas.com\ivano-frankivsk-national-medical-university\index.htm
+Content Type: text/html
+
+Uri: https://www.wayaheadoverseas.com/dnepropetrovsk-medical-institute-traditional-non-traditional-medicine/
+File Name: E:\zetetikoz data base for web site creations\parent website\www.wayaheadoverseas.com\dnepropetrovsk-medical-institute-traditional-non-traditional-medicine\index.htm
+Content Type: text/html
+
+Uri: https://www.wayaheadoverseas.com/national-university-pharmacy-ukraine/
+File Name: E:\zetetikoz data base for web site creations\parent website\www.wayaheadoverseas.com\national-university-pharmacy-ukraine\index.htm
+Content Type: text/html
+
+Uri: https://www.wayaheadoverseas.com/kharkiv-state-medical-academy-postgraduate-education/
+File Name: E:\zetetikoz data base for web site creations\parent website\www.wayaheadoverseas.com\kharkiv-state-medical-academy-postgraduate-education\index.htm
+Content Type: text/html
+
+Uri: https://www.wayaheadoverseas.com/kiev-national-medical-academy-postgraduate-education/
+File Name: E:\zetetikoz data base for web site creations\parent website\www.wayaheadoverseas.com\kiev-national-medical-academy-postgraduate-education\index.htm
+Content Type: text/html
+
+Uri: https://www.wayaheadoverseas.com/zaporozhye-medical-academy-postgraduate-education/
+File Name: E:\zetetikoz data base for web site creations\parent website\www.wayaheadoverseas.com\zaporozhye-medical-academy-postgraduate-education\index.htm
+Content Type: text/html
+
+Uri: https://www.wayaheadoverseas.com/adyghe-state-university/
+File Name: E:\zetetikoz data base for web site creations\parent website\www.wayaheadoverseas.com\adyghe-state-university\index.htm
+Content Type: text/html
+
+Uri: https://www.wayaheadoverseas.com/belgorod-state-university-faculty-medicine/
+File Name: E:\zetetikoz data base for web site creations\parent website\www.wayaheadoverseas.com\belgorod-state-university-faculty-medicine\index.htm
+Content Type: text/html
+
+Uri: https://www.wayaheadoverseas.com/novosibirsk-state-university-faculty-medicine/
+File Name: E:\zetetikoz data base for web site creations\parent website\www.wayaheadoverseas.com\novosibirsk-state-university-faculty-medicine\index.htm
+Content Type: text/html
+
+Uri: https://www.wayaheadoverseas.com/kazan-state-medical-university/
+File Name: E:\zetetikoz data base for web site creations\parent website\www.wayaheadoverseas.com\kazan-state-medical-university\index.htm
+Content Type: text/html
+
+Uri: https://www.wayaheadoverseas.com/altai-state-medical-university/
+File Name: E:\zetetikoz data base for web site creations\parent website\www.wayaheadoverseas.com\altai-state-medical-university\index.htm
+Content Type: text/html
+
+Uri: https://www.wayaheadoverseas.com/yaroslavl-state-medical-university/
+File Name: E:\zetetikoz data base for web site creations\parent website\www.wayaheadoverseas.com\yaroslavl-state-medical-university\index.htm
+Content Type: text/html
+
+Uri: https://www.wayaheadoverseas.com/voronezh-state-medical-academy-named-n-n-burdenko/
+File Name: E:\zetetikoz data base for web site creations\parent website\www.wayaheadoverseas.com\voronezh-state-medical-academy-named-n-n-burdenko\index.htm
+Content Type: text/html
+
+Uri: https://www.wayaheadoverseas.com/volgograd-state-medical-university/
+File Name: E:\zetetikoz data base for web site creations\parent website\www.wayaheadoverseas.com\volgograd-state-medical-university\index.htm
+Content Type: text/html
+
+Uri: https://www.wayaheadoverseas.com/vladivostok-state-medical-university/
+File Name: E:\zetetikoz data base for web site creations\parent website\www.wayaheadoverseas.com\vladivostok-state-medical-university\index.htm
+Content Type: text/html
+
+Uri: https://www.wayaheadoverseas.com/ural-state-medical-university-yekaterinburg/
+File Name: E:\zetetikoz data base for web site creations\parent website\www.wayaheadoverseas.com\ural-state-medical-university-yekaterinburg\index.htm
+Content Type: text/html
+
+Uri: https://www.wayaheadoverseas.com/ulyanovsk-state-university-medical-faculty-institute-medicine-ecology-ulyanovsk/
+File Name: E:\zetetikoz data base for web site creations\parent website\www.wayaheadoverseas.com\ulyanovsk-state-university-medical-faculty-institute-medicine-ecology-ulyanovsk\index.htm
+Content Type: text/html
+
+Uri: https://www.wayaheadoverseas.com/tyumen-state-medical-academy/
+File Name: E:\zetetikoz data base for web site creations\parent website\www.wayaheadoverseas.com\tyumen-state-medical-academy\index.htm
+Content Type: text/html
+
+Uri: https://www.wayaheadoverseas.com/tver-state-medical-academy/
+File Name: E:\zetetikoz data base for web site creations\parent website\www.wayaheadoverseas.com\tver-state-medical-academy\index.htm
+Content Type: text/html
+
+Uri: https://www.wayaheadoverseas.com/tula-state-university-medical-institute/
+File Name: E:\zetetikoz data base for web site creations\parent website\www.wayaheadoverseas.com\tula-state-university-medical-institute\index.htm
+Content Type: text/html
+
+Uri: https://www.wayaheadoverseas.com/stavropol-state-medical-university/
+File Name: E:\zetetikoz data base for web site creations\parent website\www.wayaheadoverseas.com\stavropol-state-medical-university\index.htm
+Content Type: text/html
+
+Uri: https://www.wayaheadoverseas.com/state-classical-academy-named-maimonides/
+File Name: E:\zetetikoz data base for web site creations\parent website\www.wayaheadoverseas.com\state-classical-academy-named-maimonides\index.htm
+Content Type: text/html
+
+Uri: https://www.wayaheadoverseas.com/south-ural-state-medical-university/
+File Name: E:\zetetikoz data base for web site creations\parent website\www.wayaheadoverseas.com\south-ural-state-medical-university\index.htm
+Content Type: text/html
+
+Uri: https://www.wayaheadoverseas.com/smolensk-state-medical-academy/
+File Name: E:\zetetikoz data base for web site creations\parent website\www.wayaheadoverseas.com\smolensk-state-medical-academy\index.htm
+Content Type: text/html
+
+Uri: https://www.wayaheadoverseas.com/saratov-state-medical-university-named-v-razumovsky/
+File Name: E:\zetetikoz data base for web site creations\parent website\www.wayaheadoverseas.com\saratov-state-medical-university-named-v-razumovsky\index.htm
+Content Type: text/html
+
+Uri: https://www.wayaheadoverseas.com/samara-state-medical-university/
+File Name: E:\zetetikoz data base for web site creations\parent website\www.wayaheadoverseas.com\samara-state-medical-university\index.htm
+Content Type: text/html
+
+Uri: https://www.wayaheadoverseas.com/samara-medical-institute-reaviz/
+File Name: E:\zetetikoz data base for web site creations\parent website\www.wayaheadoverseas.com\samara-medical-institute-reaviz\index.htm
+Content Type: text/html
+
+Uri: https://www.wayaheadoverseas.com/saint-petersburg-state-university-faculty-medicine/
+File Name: E:\zetetikoz data base for web site creations\parent website\www.wayaheadoverseas.com\saint-petersburg-state-university-faculty-medicine\index.htm
+Content Type: text/html
+
+Uri: https://www.wayaheadoverseas.com/saint-petersburg-state-pediatric-medical-university/
+File Name: E:\zetetikoz data base for web site creations\parent website\www.wayaheadoverseas.com\saint-petersburg-state-pediatric-medical-university\index.htm
+Content Type: text/html
+
+Uri: https://www.wayaheadoverseas.com/saint-petersburg-state-medical-university-p-pavlov/
+File Name: E:\zetetikoz data base for web site creations\parent website\www.wayaheadoverseas.com\saint-petersburg-state-medical-university-p-pavlov\index.htm
+Content Type: text/html
+
+Uri: https://www.wayaheadoverseas.com/saint-petersburg-state-chemical-pharmaceutical-academy/
+File Name: E:\zetetikoz data base for web site creations\parent website\www.wayaheadoverseas.com\saint-petersburg-state-chemical-pharmaceutical-academy\index.htm
+Content Type: text/html
+
+Uri: https://www.wayaheadoverseas.com/saint-petersburg-medical-technical-institute/
+File Name: E:\zetetikoz data base for web site creations\parent website\www.wayaheadoverseas.com\saint-petersburg-medical-technical-institute\index.htm
+Content Type: text/html
+
+Uri: https://www.wayaheadoverseas.com/ryazan-state-medical-university-named-academician-p-pavlov/
+File Name: E:\zetetikoz data base for web site creations\parent website\www.wayaheadoverseas.com\ryazan-state-medical-university-named-academician-p-pavlov\index.htm
+Content Type: text/html
+
+Uri: https://www.wayaheadoverseas.com/south-russian-state-technical-university-novocherkassk-polytechnic-institute/
+File Name: E:\zetetikoz data base for web site creations\parent website\www.wayaheadoverseas.com\south-russian-state-technical-university-novocherkassk-polytechnic-institute\index.htm
+Content Type: text/html
+
+Uri: https://www.wayaheadoverseas.com/wp-content/uploads/2016/06/Dollarphotoclub_101738955-300x200.jpg
+File Name: E:\zetetikoz data base for web site creations\parent website\www.wayaheadoverseas.com\wp-content\uploads\2016\06\Dollarphotoclub_101738955-300x200.jpg
+Content Type: image/jpeg
+
+Uri: https://www.wayaheadoverseas.com/wp-content/uploads/2016/06/Dollarphotoclub_101738955-768x512.jpg
+File Name: E:\zetetikoz data base for web site creations\parent website\www.wayaheadoverseas.com\wp-content\uploads\2016\06\Dollarphotoclub_101738955-768x512.jpg
+Content Type: image/jpeg
+
+Uri: https://www.wayaheadoverseas.com/wp-content/uploads/2016/06/Dollarphotoclub_101738955-1024x683.jpg
+File Name: E:\zetetikoz data base for web site creations\parent website\www.wayaheadoverseas.com\wp-content\uploads\2016\06\Dollarphotoclub_101738955-1024x683.jpg
+Content Type: image/jpeg
+
+Uri: https://www.wayaheadoverseas.com/wp-content/uploads/2016/06/Vizesiz-Gidilebilen-Ülkeler-1-150x150.jpg
+File Name: E:\zetetikoz data base for web site creations\parent website\www.wayaheadoverseas.com\wp-content\uploads\2016\06\Vizesiz-Gidilebilen-Ülkeler-1-150x150.jpg
+Content Type: image/jpeg
+
+Uri: https://www.wayaheadoverseas.com/wp-content/uploads/2016/06/Vizesiz-Gidilebilen-Ülkeler-1-68x68.jpg
+File Name: E:\zetetikoz data base for web site creations\parent website\www.wayaheadoverseas.com\wp-content\uploads\2016\06\Vizesiz-Gidilebilen-Ülkeler-1-68x68.jpg
+Content Type: image/jpeg
+
+Uri: https://www.wayaheadoverseas.com/wp-content/uploads/2016/06/Poltava.jpg
+File Name: E:\zetetikoz data base for web site creations\parent website\www.wayaheadoverseas.com\wp-content\uploads\2016\06\Poltava.jpg
+Content Type: image/jpeg
+
+Uri: https://www.wayaheadoverseas.com/wp-content/uploads/2016/06/Poltava-300x180.jpg
+File Name: E:\zetetikoz data base for web site creations\parent website\www.wayaheadoverseas.com\wp-content\uploads\2016\06\Poltava-300x180.jpg
+Content Type: image/jpeg
+
+Uri: https://www.wayaheadoverseas.com/page/3/
+File Name: E:\zetetikoz data base for web site creations\parent website\www.wayaheadoverseas.com\page\3\index.htm
+Content Type: text/html
+
+Uri: https://www.wayaheadoverseas.com/universities/page/4/
+File Name: E:\zetetikoz data base for web site creations\parent website\www.wayaheadoverseas.com\universities\page\4\index.htm
+Content Type: text/html
+
+Uri: https://www.wayaheadoverseas.com/wp-content/plugins/shortcodes-ultimate/includes/css/shortcodes.css?ver=5.3.0
+File Name: E:\zetetikoz data base for web site creations\parent website\www.wayaheadoverseas.com\wp-content\plugins\shortcodes-ultimate\includes\css\shortcodes.css
+Content Type: text/css
+
+Uri: https://www.wayaheadoverseas.com/wp-content/uploads/2019/08/5abca5e2af92b-700x300.jpg
+File Name: E:\zetetikoz data base for web site creations\parent website\www.wayaheadoverseas.com\wp-content\uploads\2019\08\5abca5e2af92b-700x300.jpg
+Content Type: image/jpeg
+
+Uri: https://www.wayaheadoverseas.com/wp-content/uploads/2019/08/5abca51aa0e8f-700x300.jpg
+File Name: E:\zetetikoz data base for web site creations\parent website\www.wayaheadoverseas.com\wp-content\uploads\2019\08\5abca51aa0e8f-700x300.jpg
+Content Type: image/jpeg
+
+Uri: https://www.wayaheadoverseas.com/wp-content/uploads/2019/08/21_w1000_h700-700x300.jpg
+File Name: E:\zetetikoz data base for web site creations\parent website\www.wayaheadoverseas.com\wp-content\uploads\2019\08\21_w1000_h700-700x300.jpg
+Content Type: image/jpeg
+
+Uri: https://www.wayaheadoverseas.com/wp-content/uploads/2019/08/452a0093-1024x683-700x300.jpg
+File Name: E:\zetetikoz data base for web site creations\parent website\www.wayaheadoverseas.com\wp-content\uploads\2019\08\452a0093-1024x683-700x300.jpg
+Content Type: image/jpeg
+
+Uri: https://www.wayaheadoverseas.com/wp-content/uploads/2019/08/863557217070996_1732763090150400_1-700x300.jpg
+File Name: E:\zetetikoz data base for web site creations\parent website\www.wayaheadoverseas.com\wp-content\uploads\2019\08\863557217070996_1732763090150400_1-700x300.jpg
+Content Type: image/jpeg
+
+Uri: https://www.wayaheadoverseas.com/wp-content/uploads/2019/08/863557217070996_1831133290313379_1-700x300.jpg
+File Name: E:\zetetikoz data base for web site creations\parent website\www.wayaheadoverseas.com\wp-content\uploads\2019\08\863557217070996_1831133290313379_1-700x300.jpg
+Content Type: image/jpeg
+
+Uri: https://www.wayaheadoverseas.com/wp-content/uploads/2019/08/863557217070996_1945382755555098_1-700x300.jpg
+File Name: E:\zetetikoz data base for web site creations\parent website\www.wayaheadoverseas.com\wp-content\uploads\2019\08\863557217070996_1945382755555098_1-700x300.jpg
+Content Type: image/jpeg
+
+Uri: https://www.wayaheadoverseas.com/wp-content/uploads/2019/08/863557217070996_2040578916035481_4-700x300.jpg
+File Name: E:\zetetikoz data base for web site creations\parent website\www.wayaheadoverseas.com\wp-content\uploads\2019\08\863557217070996_2040578916035481_4-700x300.jpg
+Content Type: image/jpeg
+
+Uri: https://www.wayaheadoverseas.com/wp-content/uploads/2019/08/eRCUSW-OTto-700x300.jpg
+File Name: E:\zetetikoz data base for web site creations\parent website\www.wayaheadoverseas.com\wp-content\uploads\2019\08\eRCUSW-OTto-700x300.jpg
+Content Type: image/jpeg
+
+Uri: https://www.wayaheadoverseas.com/wp-content/uploads/2019/08/foto-3-700x300.jpg
+File Name: E:\zetetikoz data base for web site creations\parent website\www.wayaheadoverseas.com\wp-content\uploads\2019\08\foto-3-700x300.jpg
+Content Type: image/jpeg
+
+Uri: https://www.wayaheadoverseas.com/wp-content/uploads/2019/08/IMG-20170418-WA0033-700x300.jpg
+File Name: E:\zetetikoz data base for web site creations\parent website\www.wayaheadoverseas.com\wp-content\uploads\2019\08\IMG-20170418-WA0033-700x300.jpg
+Content Type: image/jpeg
+
+Uri: https://www.wayaheadoverseas.com/wp-content/uploads/2019/08/S3sMxp80xt-big-reduce350-700x300.jpg
+File Name: E:\zetetikoz data base for web site creations\parent website\www.wayaheadoverseas.com\wp-content\uploads\2019\08\S3sMxp80xt-big-reduce350-700x300.jpg
+Content Type: image/jpeg
+
+Uri: https://www.wayaheadoverseas.com/wp-content/plugins/shortcodes-ultimate/assets/js/swiper.js?ver=2.6.1
+File Name: E:\zetetikoz data base for web site creations\parent website\www.wayaheadoverseas.com\wp-content\plugins\shortcodes-ultimate\assets\js\swiper.js
+Content Type: application/javascript
+
+Uri: https://www.wayaheadoverseas.com/wp-content/plugins/shortcodes-ultimate/assets/js/galleries-shortcodes.js?ver=5.3.0
+File Name: E:\zetetikoz data base for web site creations\parent website\www.wayaheadoverseas.com\wp-content\plugins\shortcodes-ultimate\assets\js\galleries-shortcodes.js
+Content Type: application/javascript
+
+Uri: https://www.wayaheadoverseas.com/wp-content/uploads/2019/08/University-1024x683.jpg
+File Name: E:\zetetikoz data base for web site creations\parent website\www.wayaheadoverseas.com\wp-content\uploads\2019\08\University-1024x683.jpg
+Content Type: image/jpeg
+
+Uri: https://www.wayaheadoverseas.com/wp-content/uploads/2019/08/University-300x200.jpg
+File Name: E:\zetetikoz data base for web site creations\parent website\www.wayaheadoverseas.com\wp-content\uploads\2019\08\University-300x200.jpg
+Content Type: image/jpeg
+
+Uri: https://www.wayaheadoverseas.com/wp-content/uploads/2019/08/University-768x512.jpg
+File Name: E:\zetetikoz data base for web site creations\parent website\www.wayaheadoverseas.com\wp-content\uploads\2019\08\University-768x512.jpg
+Content Type: image/jpeg
+
+Uri: https://www.wayaheadoverseas.com/universities/page/5/
+File Name: E:\zetetikoz data base for web site creations\parent website\www.wayaheadoverseas.com\universities\page\5\index.htm
+Content Type: text/html
+
+Uri: https://www.wayaheadoverseas.com/page/4/
+File Name: E:\zetetikoz data base for web site creations\parent website\www.wayaheadoverseas.com\page\4\index.htm
+Content Type: text/html
+
+Uri: https://www.wayaheadoverseas.com/wp-content/plugins/shortcodes-ultimate/includes/images/quote.png
+File Name: E:\zetetikoz data base for web site creations\parent website\www.wayaheadoverseas.com\wp-content\plugins\shortcodes-ultimate\includes\images\quote.png
+Content Type: image/png
+
+Uri: https://www.wayaheadoverseas.com/wp-content/plugins/shortcodes-ultimate/includes/images/styles/style-soft.png
+File Name: E:\zetetikoz data base for web site creations\parent website\www.wayaheadoverseas.com\wp-content\plugins\shortcodes-ultimate\includes\images\styles\style-soft.png
+Content Type: image/png
+
+Uri: https://www.wayaheadoverseas.com/wp-content/plugins/shortcodes-ultimate/includes/images/styles/style-glass.png
+File Name: E:\zetetikoz data base for web site creations\parent website\www.wayaheadoverseas.com\wp-content\plugins\shortcodes-ultimate\includes\images\styles\style-glass.png
+Content Type: image/png
+
+Uri: https://www.wayaheadoverseas.com/wp-content/plugins/shortcodes-ultimate/includes/images/styles/style-bubbles.png
+File Name: E:\zetetikoz data base for web site creations\parent website\www.wayaheadoverseas.com\wp-content\plugins\shortcodes-ultimate\includes\images\styles\style-bubbles.png
+Content Type: image/png
+
+Uri: https://www.wayaheadoverseas.com/wp-content/plugins/shortcodes-ultimate/includes/images/styles/style-noise.png
+File Name: E:\zetetikoz data base for web site creations\parent website\www.wayaheadoverseas.com\wp-content\plugins\shortcodes-ultimate\includes\images\styles\style-noise.png
+Content Type: image/png
+
+Uri: https://www.wayaheadoverseas.com/wp-content/plugins/shortcodes-ultimate/includes/images/swiper/default.png
+File Name: E:\zetetikoz data base for web site creations\parent website\www.wayaheadoverseas.com\wp-content\plugins\shortcodes-ultimate\includes\images\swiper\default.png
+Content Type: image/png
+
+Uri: https://www.wayaheadoverseas.com/wp-content/plugins/shortcodes-ultimate/includes/images/player/default.png
+File Name: E:\zetetikoz data base for web site creations\parent website\www.wayaheadoverseas.com\wp-content\plugins\shortcodes-ultimate\includes\images\player\default.png
+Content Type: image/png
+
+Uri: https://www.wayaheadoverseas.com/wp-content/plugins/shortcodes-ultimate/includes/images/player/default-start.png
+File Name: E:\zetetikoz data base for web site creations\parent website\www.wayaheadoverseas.com\wp-content\plugins\shortcodes-ultimate\includes\images\player\default-start.png
+Content Type: image/png
+
+Uri: https://www.wayaheadoverseas.com/chechen-state-university/university/
+File Name: E:\zetetikoz data base for web site creations\parent website\www.wayaheadoverseas.com\chechen-state-university\university\index.htm
+Content Type: text/html
+
+Uri: https://www.wayaheadoverseas.com/wp-content/uploads/2019/08/University.jpg
+File Name: E:\zetetikoz data base for web site creations\parent website\www.wayaheadoverseas.com\wp-content\uploads\2019\08\University.jpg
+Content Type: image/jpeg
+
+Uri: https://www.wayaheadoverseas.com/page/5/
+File Name: E:\zetetikoz data base for web site creations\parent website\www.wayaheadoverseas.com\page\5\index.htm
+Content Type: text/html
+
+Uri: https://www.wayaheadoverseas.com/page/6/
+File Name: E:\zetetikoz data base for web site creations\parent website\www.wayaheadoverseas.com\page\6\index.htm
+Content Type: text/html
+
